@@ -92,6 +92,21 @@ Arduino membaca status pin digital dari sensor suara secara terus-menerus dan me
 
 ---
 
+## 🧪 Hasil Pengujian
+
+Pengujian dilakukan dengan beberapa kondisi suara di ruangan:
+
+| Kondisi Suara | Respon LED |
+|---------------|------------|
+| Ruangan tenang | Mati |
+| Percakapan normal | Mati |
+| Suara keras / ribut | Menyala |
+| Tepuk tangan | Menyala |
+
+Sistem mampu membedakan kondisi ruangan tenang dan bising berdasarkan durasi sinyal HIGH dari sensor suara.
+
+---
+
 ## 🚀 Pengembangan Lanjutan
 
 Beberapa pengembangan yang bisa dilakukan:
