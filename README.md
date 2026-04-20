@@ -49,7 +49,7 @@ Prototipe ini dapat dikembangkan menjadi:
 ---
 
 ## 🔌 Wiring Prototype
-![Wiring](<img width="900" height="1600" alt="wiring" src="https://github.com/user-attachments/assets/9cae17e2-46f8-4b74-a5c1-5daa1107807a" />)
+![Wiring](wiring.jpg)
 
 
 ### Sound Sensor ke Arduino
